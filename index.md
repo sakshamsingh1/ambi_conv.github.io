@@ -1,12 +1,12 @@
 ## A-B format conversion
 
-- #### Experiment 1
-  Dataset : DCASE task 3 2021
-  Train set : 400
-  val set : 100
-  exp size : 4 x 1000 (trimmed)
-  actual size : 4 x 1440000
-  architecture : 1 CNN - 4 Linear, L1 loss
+- #### Experiment 1 
+  Dataset : DCASE task 3 2021\
+  Train set : 400\
+  val set : 100\
+  exp size : 4 x 1000 (trimmed)\
+  actual size : 4 x 1440000\
+  architecture : 1 CNN - 4 Linear, L1 loss\
   EDA : 
   
   result: 
