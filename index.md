@@ -1,6 +1,29 @@
-## Welcome to GitHub Pages
+## A-B format conversion
 
-You can use the [editor on GitHub](https://github.com/sakshamsingh1/ambi_conv.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+- #### Experiment 1
+  Dataset : DCASE task 3 2021
+  Train set : 400
+  val set : 100
+  exp size : 4 x 1000 (trimmed)
+  actual size : 4 x 1440000
+  architecture : 1 CNN - 4 Linear, L1 loss
+  EDA : 
+  
+  result: 
+  
+
+
+
+
+
+
+
+
+
+
+
+
+You can use the [editor on GitHub](https://github.com/sakshamsingh1/ambi_conv.github.io/edit/gh-pages/index.md)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
