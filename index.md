@@ -8,9 +8,18 @@
   actual size : 4 x 1440000\
   architecture : 1 CNN - 4 Linear, L1 loss\
   EDA : 
-  
+  <img width="456" alt="eda" src="https://user-images.githubusercontent.com/31805612/151916423-861cfa43-44f9-4d9e-8aa3-56139489a656.png">
+
   result: 
   
+
+<img width="445" alt="exp1_result" src="https://user-images.githubusercontent.com/31805612/151916442-79449c99-3e47-467f-bab2-52189a48d0d7.png">
+
+
+
+
+
+
 
 
 
