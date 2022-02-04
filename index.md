@@ -15,8 +15,13 @@
 
 <img width="445" alt="exp1_result" src="https://user-images.githubusercontent.com/31805612/151916442-79449c99-3e47-467f-bab2-52189a48d0d7.png">
 
-
-
+- #### Experiment 2
+  Everything same except
+  exp size : 4 x 24000 (trimmed)\
+  Network :
+<img width="856" alt="Screenshot 2022-02-03 at 7 12 41 PM" src="https://user-images.githubusercontent.com/31805612/152450663-ec9ed767-c781-4a65-bd89-846c379a7f5b.png">
+  Results:
+  <img width="458" alt="Screenshot 2022-02-03 at 7 12 32 PM" src="https://user-images.githubusercontent.com/31805612/152450692-d570de24-66a0-4879-a598-2f88413eb1bd.png">
 
 
 
