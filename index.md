@@ -25,6 +25,11 @@ optimizer = optim.SGD(net.parameters(), lr=0.001, momentum=0.9)\
   Results:
   <img width="458" alt="Screenshot 2022-02-03 at 7 12 32 PM" src="https://user-images.githubusercontent.com/31805612/152450692-d570de24-66a0-4879-a598-2f88413eb1bd.png">
 
+- #### Experiment 3 : exp2 + more epochs + plots
+
+<img width="432" alt="Screenshot 2022-02-04 at 4 16 34 PM" src="https://user-images.githubusercontent.com/31805612/152609221-e0fdbf7c-a3e6-4cfc-8491-0e73c20d2170.png">
+
+<img width="458" alt="Screenshot 2022-02-04 at 4 40 07 PM" src="https://user-images.githubusercontent.com/31805612/152609229-e159ecbb-eb92-464e-8cf5-0a1108c63a51.png">
 
 
 
@@ -38,39 +43,3 @@ optimizer = optim.SGD(net.parameters(), lr=0.001, momentum=0.9)\
 
 
 
-
-You can use the [editor on GitHub](https://github.com/sakshamsingh1/ambi_conv.github.io/edit/gh-pages/index.md)
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sakshamsingh1/ambi_conv.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
