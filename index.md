@@ -7,6 +7,8 @@
   exp size : 4 x 1000 (trimmed)\
   actual size : 4 x 1440000\
   architecture : 1 CNN - 4 Linear, L1 loss\
+  criterion = nn.L1Loss()\
+optimizer = optim.SGD(net.parameters(), lr=0.001, momentum=0.9)\
   EDA : 
   <img width="456" alt="eda" src="https://user-images.githubusercontent.com/31805612/151916423-861cfa43-44f9-4d9e-8aa3-56139489a656.png">
 
