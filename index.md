@@ -40,7 +40,13 @@ optimizer = optim.SGD(net.parameters(), lr=0.001, momentum=0.9)\
 file = 'fold3_room2_mix010.wav'
 <img width="449" alt="Screenshot 2022-02-07 at 7 15 06 PM" src="https://user-images.githubusercontent.com/31805612/152893787-4dc16e8c-d8dc-4f7f-b8d2-4696b19a3607.png">
 
+- #### Experiment 5 : Trying to overfit on small dataset(10 points) + CNNs 
+  <img width="838" alt="Screenshot 2022-02-07 at 7 18 31 PM" src="https://user-images.githubusercontent.com/31805612/152894262-ec5a9a51-6257-48c3-a331-c23a51b62d5e.png">
+<img width="446" alt="Screenshot 2022-02-07 at 7 18 46 PM" src="https://user-images.githubusercontent.com/31805612/152894266-e2d204f7-f776-43bd-8bcf-050fd81fbd80.png">
 
+<img width="605" alt="Screenshot 2022-02-07 at 7 18 57 PM" src="https://user-images.githubusercontent.com/31805612/152894276-a75ec629-9a8f-444b-8496-8960f8c4925e.png">
+
+<img width="463" alt="Screenshot 2022-02-07 at 7 19 07 PM" src="https://user-images.githubusercontent.com/31805612/152894277-9b1c6017-3d56-4676-83a9-73a3cfec4236.png">
 
 
 
