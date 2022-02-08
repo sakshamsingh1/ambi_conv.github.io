@@ -31,6 +31,16 @@ optimizer = optim.SGD(net.parameters(), lr=0.001, momentum=0.9)\
 
 <img width="458" alt="Screenshot 2022-02-04 at 4 40 07 PM" src="https://user-images.githubusercontent.com/31805612/152609229-e159ecbb-eb92-464e-8cf5-0a1108c63a51.png">
 
+- #### Experiment 4 : try to overfit on smaller dataset (10 datapoints)
+  Exp3 +\
+  optim.Adam(net.parameters(), lr=0.01)\
+  epochs = 200
+<img width="638" alt="Screenshot 2022-02-07 at 7 12 57 PM" src="https://user-images.githubusercontent.com/31805612/152893580-e702ee64-15fa-42f5-a4f1-163f0d67b6ad.png">
+
+file = 'fold3_room2_mix010.wav'
+<img width="449" alt="Screenshot 2022-02-07 at 7 15 06 PM" src="https://user-images.githubusercontent.com/31805612/152893787-4dc16e8c-d8dc-4f7f-b8d2-4696b19a3607.png">
+
+
 
 
 
