@@ -50,7 +50,7 @@ file = 'fold3_room2_mix010.wav'
 
 --------------------------------------- Till Now (8th Feb) --------------------------------------------------------------------------------
 
-- #### Experiment 5 
+- #### Experiment 5 : Normalize + (L1->L2 loss) + Kernel size change(3,333)
   Normalization {normalized = arr/max(|arr|)}
 
 <img width="483" alt="Screenshot 2022-02-10 at 3 04 06 PM" src="https://user-images.githubusercontent.com/31805612/153487787-639c854b-6601-4fe3-b50b-9926399ca507.png">
