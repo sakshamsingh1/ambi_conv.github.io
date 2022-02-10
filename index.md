@@ -53,11 +53,9 @@ file = 'fold3_room2_mix010.wav'
 - #### Experiment 5 
   Normalization {normalized = arr/max(|arr|)} \
 
-<img width="508" alt="Screenshot 2022-02-10 at 2 41 17 PM" src="https://user-images.githubusercontent.com/31805612/153484382-6f69d08c-b956-41ff-b731-8a99c7d28e2b.png">
+<img width="483" alt="Screenshot 2022-02-10 at 3 04 06 PM" src="https://user-images.githubusercontent.com/31805612/153487787-639c854b-6601-4fe3-b50b-9926399ca507.png">
 
-<img width="463" alt="Screenshot 2022-02-10 at 2 41 22 PM" src="https://user-images.githubusercontent.com/31805612/153484387-427a8b00-fa01-476a-bd6d-bde1a13cb9f2.png">
-
-
+<img width="447" alt="Screenshot 2022-02-10 at 3 04 12 PM" src="https://user-images.githubusercontent.com/31805612/153487796-c46b7d90-4e39-4f40-bc35-b20153bcc425.png">
 
 
 
