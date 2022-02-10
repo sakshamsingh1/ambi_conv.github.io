@@ -51,7 +51,7 @@ file = 'fold3_room2_mix010.wav'
 --------------------------------------- Till Now (8th Feb) --------------------------------------------------------------------------------
 
 - #### Experiment 5 
-  Normalization
+  Normalization\
   <img width="480" alt="Screenshot 2022-02-10 at 2 26 28 PM" src="https://user-images.githubusercontent.com/31805612/153482519-4bb81ff2-28df-44f6-aa00-6344382a1b33.png">
 <img width="458" alt="Screenshot 2022-02-10 at 2 26 34 PM" src="https://user-images.githubusercontent.com/31805612/153482532-d39e1940-672d-44f3-bfae-d7e77d6e3525.png">
 
