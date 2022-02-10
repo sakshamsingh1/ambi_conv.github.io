@@ -52,6 +52,8 @@ file = 'fold3_room2_mix010.wav'
 
 - #### Experiment 5 : Normalize + (L1->L2 loss) + Kernel size change(3,333)
   Normalization {normalized = arr/max(|arr|)}
+  
+  Note: max is globally chosen(i.e. across all the channels) and not channel wise
 
 <img width="483" alt="Screenshot 2022-02-10 at 3 04 06 PM" src="https://user-images.githubusercontent.com/31805612/153487787-639c854b-6601-4fe3-b50b-9926399ca507.png">
 
@@ -62,9 +64,6 @@ file = 'fold3_room2_mix010.wav'
 <img width="461" alt="Screenshot 2022-02-10 at 4 26 29 PM" src="https://user-images.githubusercontent.com/31805612/153499442-eec91244-bae5-4227-8349-0b5c67400a8b.png">
 
 <img width="480" alt="Screenshot 2022-02-10 at 4 26 55 PM" src="https://user-images.githubusercontent.com/31805612/153499453-a2189903-fdc1-4f4c-8b2a-305e48f95697.png">
-
-
-
 
 
 
