@@ -63,4 +63,7 @@ file = 'fold3_room2_mix010.wav'
 
 
 
+Comaprisons:\
+- L1 vs L2 Loss
+- Kernel sizes
 
