@@ -57,13 +57,18 @@ file = 'fold3_room2_mix010.wav'
 
 <img width="447" alt="Screenshot 2022-02-10 at 3 04 12 PM" src="https://user-images.githubusercontent.com/31805612/153487796-c46b7d90-4e39-4f40-bc35-b20153bcc425.png">
 
+<img width="824" alt="Screenshot 2022-02-10 at 4 26 21 PM" src="https://user-images.githubusercontent.com/31805612/153499428-687ab26f-d5ee-41a8-a1b3-88cbeff194ea.png">
+
+<img width="461" alt="Screenshot 2022-02-10 at 4 26 29 PM" src="https://user-images.githubusercontent.com/31805612/153499442-eec91244-bae5-4227-8349-0b5c67400a8b.png">
+
+<img width="480" alt="Screenshot 2022-02-10 at 4 26 55 PM" src="https://user-images.githubusercontent.com/31805612/153499453-a2189903-fdc1-4f4c-8b2a-305e48f95697.png">
 
 
 
 
 
 
-Comaprisons:\
+Comaprisons:
 - L1 vs L2 Loss
 - Kernel sizes
 
