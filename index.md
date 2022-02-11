@@ -65,6 +65,16 @@ file = 'fold3_room2_mix010.wav'
 
 <img width="480" alt="Screenshot 2022-02-10 at 4 26 55 PM" src="https://user-images.githubusercontent.com/31805612/153499453-a2189903-fdc1-4f4c-8b2a-305e48f95697.png">
 
+- #### Experiment 6 : archit change + lr change
+architecture\
+ - tanh + kernel_size(1,333) + max_pool(1,5) + remove batch norm(since 1 point)
+<img width="551" alt="Screenshot 2022-02-11 at 12 20 19 PM" src="https://user-images.githubusercontent.com/31805612/153638532-795e2cf1-1bd0-4e2d-958c-7ce69f975db9.png">
+
+<img width="435" alt="Screenshot 2022-02-11 at 12 18 52 PM" src="https://user-images.githubusercontent.com/31805612/153638735-51ad06a6-a10f-4184-a4cb-7059b10b0d2b.png">
+
+<img width="404" alt="Screenshot 2022-02-11 at 12 19 00 PM" src="https://user-images.githubusercontent.com/31805612/153638761-f9151841-ac06-4ec7-aa7a-acd5a2f476ef.png">
+
+<img width="443" alt="Screenshot 2022-02-11 at 12 19 17 PM" src="https://user-images.githubusercontent.com/31805612/153638771-d508f5fe-fe5e-4ad4-bc4e-33113a2baeff.png">
 
 
 Comaprisons:
