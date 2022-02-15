@@ -65,8 +65,8 @@ file = 'fold3_room2_mix010.wav'
 
 <img width="480" alt="Screenshot 2022-02-10 at 4 26 55 PM" src="https://user-images.githubusercontent.com/31805612/153499453-a2189903-fdc1-4f4c-8b2a-305e48f95697.png">
 
-- #### Experiment 6 : archit change + lr change
-architecture\
+- #### Experiment 6 : archit change + lr change + tanh
+architecture
  - tanh + kernel_size(1,333) + max_pool(1,5) + remove batch norm(since 1 point)
 <img width="551" alt="Screenshot 2022-02-11 at 12 20 19 PM" src="https://user-images.githubusercontent.com/31805612/153638532-795e2cf1-1bd0-4e2d-958c-7ce69f975db9.png">
 
@@ -84,6 +84,7 @@ architecture\
 <img width="473" alt="Screenshot 2022-02-11 at 5 30 00 PM" src="https://user-images.githubusercontent.com/31805612/153679795-c26dfd4f-8189-4d83-89cb-64cad7b707f5.png">
 
 
-Next:
-
+Next: 
+<img width="723" alt="Screenshot 2022-02-15 at 12 53 20 PM" src="https://user-images.githubusercontent.com/31805612/154120311-ce9d7ba0-af8e-48b9-9389-0997bef678c7.png">
+Reference : CREPE: A CONVOLUTIONAL REPRESENTATION FOR PITCH ESTIMATION
 
