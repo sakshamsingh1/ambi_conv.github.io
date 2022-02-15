@@ -84,7 +84,9 @@ architecture
 <img width="473" alt="Screenshot 2022-02-11 at 5 30 00 PM" src="https://user-images.githubusercontent.com/31805612/153679795-c26dfd4f-8189-4d83-89cb-64cad7b707f5.png">
 
 
-Next: 
-<img width="723" alt="Screenshot 2022-02-15 at 12 53 20 PM" src="https://user-images.githubusercontent.com/31805612/154120311-ce9d7ba0-af8e-48b9-9389-0997bef678c7.png">
-Reference : CREPE: A CONVOLUTIONAL REPRESENTATION FOR PITCH ESTIMATION
+Next: \
 
+<img width="723" alt="Screenshot 2022-02-15 at 12 53 20 PM" src="https://user-images.githubusercontent.com/31805612/154120311-ce9d7ba0-af8e-48b9-9389-0997bef678c7.png">
+Reference : CREPE: A CONVOLUTIONAL REPRESENTATION FOR PITCH ESTIMATION\
+
+<img width="365" alt="Screenshot 2022-02-15 at 12 55 11 PM" src="https://user-images.githubusercontent.com/31805612/154120615-3d9b9d1e-4d9c-4e9d-8249-ae7c0669744d.png">
