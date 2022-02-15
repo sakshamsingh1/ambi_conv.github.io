@@ -84,7 +84,6 @@ architecture\
 <img width="473" alt="Screenshot 2022-02-11 at 5 30 00 PM" src="https://user-images.githubusercontent.com/31805612/153679795-c26dfd4f-8189-4d83-89cb-64cad7b707f5.png">
 
 
-Comparisons:
-- L1 vs L2 Loss
-- Kernel sizes
+Next:
+
 
