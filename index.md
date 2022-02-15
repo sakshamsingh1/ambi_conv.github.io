@@ -77,16 +77,16 @@ architecture
 <img width="443" alt="Screenshot 2022-02-11 at 12 19 17 PM" src="https://user-images.githubusercontent.com/31805612/153638771-d508f5fe-fe5e-4ad4-bc4e-33113a2baeff.png">
 
 - #### Experiment 7 : overfit on 100 training points
-- <img width="576" alt="Screenshot 2022-02-11 at 5 29 53 PM" src="https://user-images.githubusercontent.com/31805612/153679781-731aa761-37d5-4904-9950-afad79ea33ee.png">
+ <img width="576" alt="Screenshot 2022-02-11 at 5 29 53 PM" src="https://user-images.githubusercontent.com/31805612/153679781-731aa761-37d5-4904-9950-afad79ea33ee.png">
 
 <img width="416" alt="Screenshot 2022-02-11 at 5 30 11 PM" src="https://user-images.githubusercontent.com/31805612/153679787-b92bcdda-6ae9-4b10-b0fd-3204750f3963.png">
 
 <img width="473" alt="Screenshot 2022-02-11 at 5 30 00 PM" src="https://user-images.githubusercontent.com/31805612/153679795-c26dfd4f-8189-4d83-89cb-64cad7b707f5.png">
 
 
-Next: \
+Next: 
 
 <img width="723" alt="Screenshot 2022-02-15 at 12 53 20 PM" src="https://user-images.githubusercontent.com/31805612/154120311-ce9d7ba0-af8e-48b9-9389-0997bef678c7.png">
-Reference : CREPE: A CONVOLUTIONAL REPRESENTATION FOR PITCH ESTIMATION\
+Reference : CREPE: A CONVOLUTIONAL REPRESENTATION FOR PITCH ESTIMATION
 
 <img width="365" alt="Screenshot 2022-02-15 at 12 55 11 PM" src="https://user-images.githubusercontent.com/31805612/154120615-3d9b9d1e-4d9c-4e9d-8249-ae7c0669744d.png">
