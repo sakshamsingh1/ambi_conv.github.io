@@ -15,13 +15,3 @@ Exp. 2:
 - Frame size : 'output_frames': 48473, 'input_frames': 58025\
   <img width="422" alt="Screenshot 2022-02-28 at 12 40 16 PM" src="https://user-images.githubusercontent.com/31805612/156076192-669618bb-13e5-4ccb-93bf-bffdcc4dcae0.png">
  <img width="484" alt="Screenshot 2022-02-28 at 12 40 40 PM" src="https://user-images.githubusercontent.com/31805612/156076210-90e0bb00-bc38-441e-bd3a-f0d8fd417f89.png">
-
-
-
---------------------------
-Changes | Time (per epoch)
----------------------------
-- Original | 2min 37s
-- preload_files | 4 sec
-
-
