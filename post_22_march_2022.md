@@ -8,3 +8,9 @@ Exp. 1:
 
 - diff example :
  <img width="468" alt="Screenshot 2022-02-24 at 7 07 51 PM" src="https://user-images.githubusercontent.com/31805612/155628389-52198425-b211-43de-b9d6-feb7623b0cf7.png">
+
+--------------------------
+Changes | Time (per epoch)
+---------------------------
+- Original | 2min 37s
+- preload_files | 4 sec
