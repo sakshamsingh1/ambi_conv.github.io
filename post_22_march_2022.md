@@ -18,6 +18,6 @@ Exp. 2:
 
 Exp3 :
 - Eigenscape : 100 points
-- Ambisonic num of chan = 1\
+- Ambisonic num of chan = 1
 <img width="405" alt="Screenshot 2022-03-01 at 1 46 34 AM" src="https://user-images.githubusercontent.com/31805612/156119267-13b87474-5242-4efb-9dbc-d148cb4f162d.png">
 <img width="396" alt="Screenshot 2022-03-01 at 1 46 48 AM" src="https://user-images.githubusercontent.com/31805612/156119360-52cff7ad-724a-48ac-ba08-b84b6f43bc2e.png">
