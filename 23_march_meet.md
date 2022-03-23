@@ -21,3 +21,12 @@ Verification
 <img width="507" alt="Screenshot 2022-03-23 at 1 20 38 PM" src="https://user-images.githubusercontent.com/31805612/159760918-91adff1f-5795-4fdb-80c7-a91dc92c45f8.png">
 
 <img width="513" alt="Screenshot 2022-03-23 at 1 20 45 PM" src="https://user-images.githubusercontent.com/31805612/159760931-20e06d67-4558-4f5a-8624-2f5c87bf7b1e.png">
+
+### Next steps
+
+* Reduce lr to make learning continue from where the best model is
+* Train with more data
+* Train with a more complex loss, to improve phase error
+* Include another baseline in the Table of results
+* Use the model for a downstream task (SEDL)
+* Dynamic filter convolutions
