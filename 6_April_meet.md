@@ -1,7 +1,6 @@
 Baseline: \
 - (un-normalised)A_fmt -> Reaper + Array2sh -> B_fmt -> compare with normalised 1sec chunks
-
-<img width="905" alt="Screenshot 2022-03-31 at 5 46 51 PM" src="https://user-images.githubusercontent.com/31805612/161154832-92bd1971-5798-4949-bf21-b40e45bc737f.png">
+<img width="922" alt="Screenshot 2022-03-31 at 6 21 57 PM" src="https://user-images.githubusercontent.com/31805612/161159347-103b42d7-e35b-41eb-8c9d-1a1f55ae474b.png">
 
 
 <img width="448" alt="Screenshot 2022-03-31 at 5 42 41 PM" src="https://user-images.githubusercontent.com/31805612/161154606-86680e13-d719-4c2c-aa64-140ea4d87930.png">
