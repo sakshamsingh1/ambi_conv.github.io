@@ -1,8 +1,8 @@
-Baseline: \
+Baseline: 
 - (un-normalised)A_fmt -> Reaper + Array2sh -> B_fmt -> compare with normalised 1sec chunks
-<img width="922" alt="Screenshot 2022-03-31 at 6 21 57 PM" src="https://user-images.githubusercontent.com/31805612/161159347-103b42d7-e35b-41eb-8c9d-1a1f55ae474b.png">
+<img width="912" alt="Screenshot 2022-04-01 at 7 30 34 PM" src="https://user-images.githubusercontent.com/31805612/161354134-fe05ccf2-f0af-4796-a6c9-ace64ae0ce55.png">
+
+<img width="356" alt="Screenshot 2022-04-01 at 7 29 56 PM" src="https://user-images.githubusercontent.com/31805612/161354150-264a8d15-ee83-42dd-b5f8-54871c47e2f0.png">
 
 
-<img width="448" alt="Screenshot 2022-03-31 at 5 42 41 PM" src="https://user-images.githubusercontent.com/31805612/161154606-86680e13-d719-4c2c-aa64-140ea4d87930.png">
-<img width="435" alt="Screenshot 2022-03-31 at 5 42 45 PM" src="https://user-images.githubusercontent.com/31805612/161154625-facb2256-f5e2-4d29-b5ff-c5f0f463cd71.png">
-<img width="439" alt="Screenshot 2022-03-31 at 5 42 50 PM" src="https://user-images.githubusercontent.com/31805612/161154633-af5ac6f9-83e7-4b5f-89c1-d208d331963f.png">
+
